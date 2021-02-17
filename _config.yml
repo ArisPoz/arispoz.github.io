@@ -15,12 +15,12 @@ urls:
     #   url: /gallery
     # - text: Shop
     #   url : /shop
-    - text: Contact Me
-      url : /contact
+    # - text: Contact Me
+    #   url : /contact
     # - text: Styleguide
     #   url: /styleguide
-    - text: Get Started
-      url: /get-started
+    # - text: Get Started
+    #   url: /get-started
 
 # Edit these details
 

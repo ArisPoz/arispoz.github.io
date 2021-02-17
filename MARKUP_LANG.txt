@@ -1,0 +1,13 @@
+`emphasize`
+
+##### Header
+
+```yaml
+    CODE
+```
+
+**Bold-words**
+
+[Link](https://www.google.com)
+
+![IMAGE](/assets/img/posts/d2.png){:class="img-fluid"}
