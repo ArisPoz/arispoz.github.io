@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem 'jekyll', '~> 4.0.0'
+gem 'nokogiri', '~> 1.11.1'
 gem 'bundler'
 gem 'kramdown'
 gem 'rack-jekyll'

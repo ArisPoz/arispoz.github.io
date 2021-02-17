@@ -19,8 +19,8 @@ urls:
       url : /contact
     # - text: Styleguide
     #   url: /styleguide
-    # - text: Get Started
-    #   url: /get-started
+    - text: Get Started
+      url: /get-started
 
 # Edit these details
 
@@ -35,7 +35,7 @@ author_work_experiences:
             - company_name: Foodtec Solutions Inc.
               company_logo: foodtec.png
               company_url: https://foodtecsolutions.com/
-              designation: Software Engineer
+              designation: Junior Software Engineer
               type: Full-time
               description: //TODO
               visibility: true
