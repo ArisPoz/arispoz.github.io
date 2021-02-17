@@ -83,7 +83,11 @@ GEM
     jgd (1.12)
       jekyll (>= 1.5.1)
       trollop (= 2.9.9)
+<<<<<<< HEAD
     json (2.5.1)
+=======
+    json (2.3.0)
+>>>>>>> 8057161c1ef392174bace5e08c0458ad9a4cbc51
     kramdown (2.3.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -96,6 +100,7 @@ GEM
     mini_portile2 (2.5.0)
     multi_json (1.15.0)
     multipart-post (2.1.1)
+<<<<<<< HEAD
     nio4r (2.5.5)
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
@@ -103,13 +108,27 @@ GEM
     nokogiri (1.11.1-x64-mingw32)
       racc (~> 1.4)
     octokit (4.20.0)
+=======
+    nio4r (2.5.4)
+    nokogiri (1.10.9)
+      mini_portile2 (~> 2.4.0)
+    nokogiri (1.10.9-x64-mingw32)
+      mini_portile2 (~> 2.4.0)
+    octokit (4.18.0)
+>>>>>>> 8057161c1ef392174bace5e08c0458ad9a4cbc51
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+<<<<<<< HEAD
     progressbar (1.11.0)
     public_suffix (4.0.6)
     puma (5.2.1)
+=======
+    progressbar (1.10.1)
+    public_suffix (4.0.4)
+    puma (4.3.5)
+>>>>>>> 8057161c1ef392174bace5e08c0458ad9a4cbc51
       nio4r (~> 2.0)
     racc (1.5.2)
     rack (1.6.13)
@@ -126,8 +145,12 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.4)
+<<<<<<< HEAD
     rouge (3.26.0)
     ruby2_keywords (0.0.4)
+=======
+    rouge (3.17.0)
+>>>>>>> 8057161c1ef392174bace5e08c0458ad9a4cbc51
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
