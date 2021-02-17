@@ -5,7 +5,7 @@ gem 'nokogiri', '~> 1.11.1'
 gem 'bundler'
 gem 'kramdown'
 gem 'rack-jekyll'
-gem 'rake'
+gem 'rake', ">= 2.1.4"
 gem 'puma'
 
 
