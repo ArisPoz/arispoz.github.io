@@ -1,5 +1,4 @@
 # arispoz.github.io
 My personal page
 
-It is still under construction :)
-Will be ready :)
+Has my CV and my own blog.
